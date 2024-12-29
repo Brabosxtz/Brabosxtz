@@ -1,4 +1,4 @@
-![Pawn](https://img.shields.io/badge/Pawn-4E5A5A?style=flat&logo=pawn&logoColor=FFFFFF)
+
 ### 🛠️ Ferramentas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-3d3638?style=flat&logo=educative&logoColor=e9b991)
 ![Termux](https://img.shields.io/badge/Termux-3d3638?style=flat&logo=educative&logoColor=e9b991)
