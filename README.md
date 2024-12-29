@@ -1,8 +1,7 @@
-
+![Pawn](https://img.shields.io/badge/Pawn-4E5A5A?style=flat&logo=pawn&logoColor=FFFFFF)
 ### 🛠️ Ferramentas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-3d3638?style=flat&logo=educative&logoColor=e9b991)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-3d3638?style=flat&logo=sublime-text&logoColor=e9b991)
-![Git](https://img.shields.io/badge/Git-3d3638?style=flat&logo=git&logoColor=e9b991)
+![Termux](https://img.shields.io/badge/Termux-3d3638?style=flat&logo=educative&logoColor=e9b991)
 
 ### 🌍 Conhecimento
 ![HTML](https://img.shields.io/badge/HTML5-3d3638?style=flat&logo=html5&logoColor=e9b991)
