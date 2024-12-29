@@ -1,18 +1,22 @@
 
-<!--
-**Brabosxtz/Brabosxtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Ferramentas
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-3d3638?style=flat&logo=educative&logoColor=e9b991)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-3d3638?style=flat&logo=sublime-text&logoColor=e9b991)
+![Git](https://img.shields.io/badge/Git-3d3638?style=flat&logo=git&logoColor=e9b991)
 
-Here are some ideas to get you started:
+### 🌍 Conhecimento
+![HTML](https://img.shields.io/badge/HTML5-3d3638?style=flat&logo=html5&logoColor=e9b991)
+![CSS](https://img.shields.io/badge/CSS3-3d3638?style=flat&logo=css3&logoColor=e9b991)
+![JavaScript](https://img.shields.io/badge/JavaScript-3d3638?style=flat&logo=javascript&logoColor=e9b991)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![NodeJS](https://img.shields.io/badge/Node.js-3d3638?style=flat&logo=node.js&logoColor=e9b991)
+![Python](https://img.shields.io/badge/Python-3d3638?style=flat&logo=python&logoColor=e9b991)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![MySQL](https://img.shields.io/badge/MySQL-3d3638?style=flat&logo=mysql&logoColor=e9b991)
+![SQLite](https://img.shields.io/badge/SQLite-3d3638?style=flat&logo=sqlite&logoColor=e9b991)
+
+### 📋 Estatísticas
+[![Brabosxtz GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Brabosxtz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+### 📱 Contato
+[![Discord](https://img.shields.io/badge/Discord-3d3638?style=flat&logo=discord)](https://discord.com/users/730166257290313758)
