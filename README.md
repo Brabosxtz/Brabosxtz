@@ -10,22 +10,14 @@
   <img align="center" alt="Brabox" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Brabox" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Brabox" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Brabox" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Brabox" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" alt="Brabox" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Brabox" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img align="center" alt="Brabox" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   
   <img align="center" alt="blueN" height="30" width="40" src="https://i.imgur.com/VJLHjfM.png">
 </div>
-
-![HTML](https://img.shields.io/badge/HTML5-3d3638?style=flat&logo=html5&logoColor=e9b991)
-![CSS](https://img.shields.io/badge/CSS3-3d3638?style=flat&logo=css3&logoColor=e9b991)
-![JavaScript](https://img.shields.io/badge/JavaScript-3d3638?style=flat&logo=javascript&logoColor=e9b991)
-
-![NodeJS](https://img.shields.io/badge/Node.js-3d3638?style=flat&logo=node.js&logoColor=e9b991)
-![Python](https://img.shields.io/badge/Python-3d3638?style=flat&logo=python&logoColor=e9b991)
-
-![MySQL](https://img.shields.io/badge/MySQL-3d3638?style=flat&logo=mysql&logoColor=e9b991)
-![SQLite](https://img.shields.io/badge/SQLite-3d3638?style=flat&logo=sqlite&logoColor=e9b991)
 
 ### 📋 Estatísticas
 [![Brabosxtz GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Brabosxtz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
